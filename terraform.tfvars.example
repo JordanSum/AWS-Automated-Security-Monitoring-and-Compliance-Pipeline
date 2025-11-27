@@ -1,0 +1,5 @@
+# Copy this file to terraform.tfvars and update with your actual values
+# DO NOT commit terraform.tfvars to version control
+
+bucket_name = "my-unique-static-assets-bucket"
+secret_name = "secret-name"
